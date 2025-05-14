@@ -182,6 +182,6 @@ Timeline: 1 Week
 
 📬 Contact
 For questions or collaboration:
-[Your Name] – [your.email@example.com]
+[Your Name] – [devirajan152006@gmail.com]
 GitHub: github.com/your-username
 
